@@ -12,3 +12,5 @@ I have a master degree in statistics. I enjoy statistical computing, modeling, p
 - 📫 How to reach me: nataliariquelmesa@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I studied public administration but I always liked programming more. Now I dedicate 100% of my time to learn and work with R, Python and statistics !!!
+
+This is a backup GitHub account because I lost access to my main one, @nataliariquelme. You can find older projects and stored repositories over there.
